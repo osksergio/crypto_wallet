@@ -1,24 +1,21 @@
-# README
+# Ruby on Rails 5.x - Do início ao fim!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Curso da plataforma Udemy.com
+Entenda todo ecossistema do Ruby on Rails 5.x criando uma aplicação do início ao fim!
 
-Things you may want to cover:
+Professor: Jackson Pires
 
-* Ruby version
+* Ruby version: 3.1.2
+* Rails version: 6.1.7.3
 
 * System dependencies
 
-* Configuration
+* Configuration:
+  - bundle install
 
-* Database creation
-
-* Database initialization
+* Database: SQLite 3
 
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
-
-* ...
